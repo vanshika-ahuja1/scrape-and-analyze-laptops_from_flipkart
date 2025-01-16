@@ -22,3 +22,13 @@ By analyzing the scraped data, we can gain valuable insights such as:
 * Which product has the highest rating?
 * How many products have a rating of 4.5 or higher?
 * What is the average number of RAM (in GB) across all products?
+
+**After performing EDA data is saved to a new csv named `Laptop_Data.csv`**
+
+  ## Before performing EDA data looks like this
+
+![CSV Screenshot](https://github.com/vanshika-ahuja1/scrape-and-analyze-laptops_from_flipkart/blob/main/csv-output-before-EDA.png?raw=true)
+
+## After performing EDA dataa looks like this
+
+![CSV Screenshot](https://github.com/vanshika-ahuja1/scrape-and-analyze-laptops_from_flipkart/blob/main/csv-output-after-EDA.png?raw=true)
